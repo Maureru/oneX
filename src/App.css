@@ -14,6 +14,10 @@ h1 {
   font-variant: small-caps;
 }
 
+.txt {
+  text-align: center;
+}
+
 @keyframes ups {
   0% {transform: translateY(0);}
   50% {transform: translateY(-20px);}
@@ -28,4 +32,9 @@ h2 {
 p {
   text-align: center;
   width: 500px;
+}
+
+span {
+  color: #535bf2;
+  font-weight: 800;
 }
