@@ -7,7 +7,7 @@
 
 h3 {
   text-align: center;
-  animation: ups 2s infinite;
+  /* animation: ups 2s infinite; */
   text-transform: uppercase;
 }
 h1 {
@@ -22,7 +22,7 @@ h1 {
 
 @keyframes ups {
   0% {transform: translateY(0);}
-  50% {transform: translateY(-20px);}
+  50% {transform: translateY(-5px);}
   100% {transform: translateY(0);}
 }
 
