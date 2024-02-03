@@ -1,6 +1,6 @@
 
 export const links = {
-    "onexbet": {
+    "onex": {
         name: "1XBET High Odds",
         link: "https://refpa4293501.top/L?tag=d_3007175m_1622c_&site=3007175&ad=1622&r=Registration/"
     },
