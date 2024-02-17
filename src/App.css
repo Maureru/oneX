@@ -2,7 +2,10 @@
   margin: 0 auto;
   padding: 0;
   width: 100hw;
+  height: 100vh;
   overflow: hidden;
+  display: flex;
+  align-items: center;
 }
 
 h3 {
@@ -29,6 +32,10 @@ h1 {
 h2 {
   text-align: center;
   width: 500px;
+}
+
+.macoo {
+  font-weight: 200;
 }
 
 p {
