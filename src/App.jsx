@@ -6,7 +6,7 @@ function App() {
     <div className='txt'>
       <h1>OneX Philippines</h1>
       <h3>Register to 1xBet Here</h3>
-      <a className='btn' href={links.onexx.link}>Register Now</a>
+      <a className='btn' href={links.onex.link}>Register Now</a>
       <h4>PROMO CODE: <span>TAMBAYENGINEER</span></h4>
       <h5 style={{
         textTransform: "uppercase"
