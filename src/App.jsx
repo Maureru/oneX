@@ -15,7 +15,7 @@ function App() {
         padding: "5px 10px",
         border: "2px solid #535bf2",
         borderRadius: "5px"
-      }} href="https://m.me/j/AbZ3ttNWB3SVVeyO/">Player's Discussion VIP Group</a>
+      }} href="https://t.me/+Cao5jMKGTINiOGVl">Player's VIP Group</a>
       <h3 className='macoo'>@Macoo - Official Agent</h3>
     </div>
   )
