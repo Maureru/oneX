@@ -15,7 +15,7 @@ function App() {
         padding: "5px 10px",
         border: "2px solid #535bf2",
         borderRadius: "5px"
-      }} href="https://t.me/+Cao5jMKGTINiOGVl">Player's VIP Group</a>
+      }} href="https://telegram.me/+Cao5jMKGTINiOGVl">Player's VIP Group</a>
       <h3 className='macoo'>@Macoo - Official Agent</h3>
     </div>
   )
